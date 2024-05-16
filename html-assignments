@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div>
+    <img src="https://static.moviecrow.com/movies/0-premalu/226096-226093-pre-px214.jpg" />
+    <h1>Premalu</h1>
+    <p>
+      Premalu is a 2024 Indian Malayalam-language romantic comedy film directed by Girish A. D. and produced by Bhavana
+      Studios, in the company of Fahadh Faasil and Friends and Working Class Hero.
+    </p>
+    <div>
+      <h2>Cast</h2>
+      <ol>
+        <li>Mamitha Baiju</li>
+        <li>Naslen K. Gafoor</li>
+        <li>Sangeeth Pratap</li>
+      </ol>
+    </div>
+    <div>
+      <h2>Budget</h2>
+      <p>9 crores INR</p>
+    </div>
+    <a href='https://www.hotstar.com/in/movies/premalu/1271295279' target="_blank">
+      <h1>Watch now</h1>
+    </a>
+  </div>
+</body>
+
+</html>
